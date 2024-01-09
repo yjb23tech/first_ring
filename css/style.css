@@ -1,0 +1,25 @@
+.itunes-song-metadata {
+    width: 600px;
+    margin: 0 auto;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+
+}
+
+.itunes-song-cover-art {
+    height: auto;
+    width: 200px;
+    margin-right: 20px;
+}
+
+.info-group {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.info-group > img {
+    width: 18px;
+    height: 18px;
+}
