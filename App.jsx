@@ -1,9 +1,11 @@
 import { createRoot } from "react-dom/client"; 
+import Card from "./components/Card.jsx"
 
 const App = () => {
     return (
         <div>
             <h1>Ruthless.</h1>
+            <Card />
         </div>
     )
 }
